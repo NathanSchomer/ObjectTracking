@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/schomer/opencv_test/blob.cpp
+opencv2/opencv.hpp
+/home/schomer/opencv_test/opencv2/opencv.hpp
+
