@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/schomer/opencv_test/open_img.cpp
+/home/parallels/ObjectTracking/open_img.cpp
 stdio.h
 -
 opencv2/opencv.hpp

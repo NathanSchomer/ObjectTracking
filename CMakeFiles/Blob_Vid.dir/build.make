@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/schomer/opencv_test
+CMAKE_SOURCE_DIR = /home/parallels/ObjectTracking
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/schomer/opencv_test
+CMAKE_BINARY_DIR = /home/parallels/ObjectTracking
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Blob_Vid.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/Blob_Vid.dir/flags.make
 
 CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o: CMakeFiles/Blob_Vid.dir/flags.make
 CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o: blob_vid.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/schomer/opencv_test/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/parallels/ObjectTracking/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o -c /home/schomer/opencv_test/blob_vid.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o -c /home/parallels/ObjectTracking/blob_vid.cpp
 
 CMakeFiles/Blob_Vid.dir/blob_vid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Blob_Vid.dir/blob_vid.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/schomer/opencv_test/blob_vid.cpp > CMakeFiles/Blob_Vid.dir/blob_vid.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/parallels/ObjectTracking/blob_vid.cpp > CMakeFiles/Blob_Vid.dir/blob_vid.cpp.i
 
 CMakeFiles/Blob_Vid.dir/blob_vid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Blob_Vid.dir/blob_vid.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/schomer/opencv_test/blob_vid.cpp -o CMakeFiles/Blob_Vid.dir/blob_vid.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/parallels/ObjectTracking/blob_vid.cpp -o CMakeFiles/Blob_Vid.dir/blob_vid.cpp.s
 
 CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o.requires:
 .PHONY : CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o.requires
@@ -180,6 +180,6 @@ CMakeFiles/Blob_Vid.dir/clean:
 .PHONY : CMakeFiles/Blob_Vid.dir/clean
 
 CMakeFiles/Blob_Vid.dir/depend:
-	cd /home/schomer/opencv_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test/CMakeFiles/Blob_Vid.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/parallels/ObjectTracking && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking/CMakeFiles/Blob_Vid.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Blob_Vid.dir/depend
 

@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/schomer/opencv_test/blob_vid.cpp" "/home/schomer/opencv_test/CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o"
+  "/home/parallels/ObjectTracking/blob_vid.cpp" "/home/parallels/ObjectTracking/CMakeFiles/Blob_Vid.dir/blob_vid.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

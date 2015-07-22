@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/schomer/opencv_test/blobEx.cpp" "/home/schomer/opencv_test/CMakeFiles/TemplateTrack.dir/blobEx.cpp.o"
+  "/home/parallels/ObjectTracking/blobEx.cpp" "/home/parallels/ObjectTracking/CMakeFiles/TemplateTrack.dir/blobEx.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

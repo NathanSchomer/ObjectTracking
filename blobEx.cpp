@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
     int count = 1, idx =0;
     int frame_pos =0;
 
-    cv::VideoCapture input_video(0);
+    cv::VideoCapture input_video(1);
 
     namedWindow("My_Win",1);
 

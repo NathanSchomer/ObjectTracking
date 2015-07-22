@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/schomer/opencv_test/blobEx.cpp
+/home/parallels/ObjectTracking/blobEx.cpp
 opencv2/highgui/highgui.hpp
-/home/schomer/opencv_test/opencv2/highgui/highgui.hpp
+/home/parallels/ObjectTracking/opencv2/highgui/highgui.hpp
 opencv2/imgproc/imgproc.hpp
-/home/schomer/opencv_test/opencv2/imgproc/imgproc.hpp
+/home/parallels/ObjectTracking/opencv2/imgproc/imgproc.hpp
 iostream
 -
 stdio.h

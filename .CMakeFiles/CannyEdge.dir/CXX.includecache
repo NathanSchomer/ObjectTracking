@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/schomer/opencv_test/canny_edge.cpp
+opencv2/imgproc/imgproc.hpp
+/home/schomer/opencv_test/opencv2/imgproc/imgproc.hpp
+opencv2/highgui/highgui.hpp
+/home/schomer/opencv_test/opencv2/highgui/highgui.hpp
+string
+-
+

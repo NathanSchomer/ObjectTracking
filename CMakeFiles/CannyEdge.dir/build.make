@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/schomer/opencv_test
+CMAKE_SOURCE_DIR = /home/parallels/ObjectTracking
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/schomer/opencv_test
+CMAKE_BINARY_DIR = /home/parallels/ObjectTracking
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CannyEdge.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/CannyEdge.dir/flags.make
 
 CMakeFiles/CannyEdge.dir/canny_edge.cpp.o: CMakeFiles/CannyEdge.dir/flags.make
 CMakeFiles/CannyEdge.dir/canny_edge.cpp.o: canny_edge.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/schomer/opencv_test/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/parallels/ObjectTracking/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/CannyEdge.dir/canny_edge.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/CannyEdge.dir/canny_edge.cpp.o -c /home/schomer/opencv_test/canny_edge.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/CannyEdge.dir/canny_edge.cpp.o -c /home/parallels/ObjectTracking/canny_edge.cpp
 
 CMakeFiles/CannyEdge.dir/canny_edge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CannyEdge.dir/canny_edge.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/schomer/opencv_test/canny_edge.cpp > CMakeFiles/CannyEdge.dir/canny_edge.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/parallels/ObjectTracking/canny_edge.cpp > CMakeFiles/CannyEdge.dir/canny_edge.cpp.i
 
 CMakeFiles/CannyEdge.dir/canny_edge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CannyEdge.dir/canny_edge.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/schomer/opencv_test/canny_edge.cpp -o CMakeFiles/CannyEdge.dir/canny_edge.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/parallels/ObjectTracking/canny_edge.cpp -o CMakeFiles/CannyEdge.dir/canny_edge.cpp.s
 
 CMakeFiles/CannyEdge.dir/canny_edge.cpp.o.requires:
 .PHONY : CMakeFiles/CannyEdge.dir/canny_edge.cpp.o.requires
@@ -144,6 +144,6 @@ CMakeFiles/CannyEdge.dir/clean:
 .PHONY : CMakeFiles/CannyEdge.dir/clean
 
 CMakeFiles/CannyEdge.dir/depend:
-	cd /home/schomer/opencv_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test/CMakeFiles/CannyEdge.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/parallels/ObjectTracking && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking/CMakeFiles/CannyEdge.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CannyEdge.dir/depend
 

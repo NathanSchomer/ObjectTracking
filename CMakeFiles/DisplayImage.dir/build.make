@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/schomer/opencv_test
+CMAKE_SOURCE_DIR = /home/parallels/ObjectTracking
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/schomer/opencv_test
+CMAKE_BINARY_DIR = /home/parallels/ObjectTracking
 
 # Include any dependencies generated for this target.
 include CMakeFiles/DisplayImage.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/DisplayImage.dir/flags.make
 
 CMakeFiles/DisplayImage.dir/open_img.cpp.o: CMakeFiles/DisplayImage.dir/flags.make
 CMakeFiles/DisplayImage.dir/open_img.cpp.o: open_img.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/schomer/opencv_test/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/parallels/ObjectTracking/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/DisplayImage.dir/open_img.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/open_img.cpp.o -c /home/schomer/opencv_test/open_img.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/DisplayImage.dir/open_img.cpp.o -c /home/parallels/ObjectTracking/open_img.cpp
 
 CMakeFiles/DisplayImage.dir/open_img.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DisplayImage.dir/open_img.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/schomer/opencv_test/open_img.cpp > CMakeFiles/DisplayImage.dir/open_img.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/parallels/ObjectTracking/open_img.cpp > CMakeFiles/DisplayImage.dir/open_img.cpp.i
 
 CMakeFiles/DisplayImage.dir/open_img.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DisplayImage.dir/open_img.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/schomer/opencv_test/open_img.cpp -o CMakeFiles/DisplayImage.dir/open_img.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/parallels/ObjectTracking/open_img.cpp -o CMakeFiles/DisplayImage.dir/open_img.cpp.s
 
 CMakeFiles/DisplayImage.dir/open_img.cpp.o.requires:
 .PHONY : CMakeFiles/DisplayImage.dir/open_img.cpp.o.requires
@@ -126,6 +126,6 @@ CMakeFiles/DisplayImage.dir/clean:
 .PHONY : CMakeFiles/DisplayImage.dir/clean
 
 CMakeFiles/DisplayImage.dir/depend:
-	cd /home/schomer/opencv_test && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test /home/schomer/opencv_test/CMakeFiles/DisplayImage.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/parallels/ObjectTracking && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking /home/parallels/ObjectTracking/CMakeFiles/DisplayImage.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/DisplayImage.dir/depend
 

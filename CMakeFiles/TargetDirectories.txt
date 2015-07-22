@@ -1,5 +1,5 @@
-/home/schomer/opencv_test/CMakeFiles/Blob.dir
-/home/schomer/opencv_test/CMakeFiles/Blob_Vid.dir
-/home/schomer/opencv_test/CMakeFiles/CannyEdge.dir
-/home/schomer/opencv_test/CMakeFiles/DisplayImage.dir
-/home/schomer/opencv_test/CMakeFiles/TemplateTrack.dir
+/home/parallels/ObjectTracking/CMakeFiles/Blob.dir
+/home/parallels/ObjectTracking/CMakeFiles/Blob_Vid.dir
+/home/parallels/ObjectTracking/CMakeFiles/CannyEdge.dir
+/home/parallels/ObjectTracking/CMakeFiles/DisplayImage.dir
+/home/parallels/ObjectTracking/CMakeFiles/TemplateTrack.dir

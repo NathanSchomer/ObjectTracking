@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/schomer/opencv_test/canny_edge.cpp" "/home/schomer/opencv_test/CMakeFiles/CannyEdge.dir/canny_edge.cpp.o"
+  "/home/parallels/ObjectTracking/canny_edge.cpp" "/home/parallels/ObjectTracking/CMakeFiles/CannyEdge.dir/canny_edge.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 
